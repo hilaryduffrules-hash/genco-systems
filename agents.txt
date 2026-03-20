@@ -1,190 +1,31 @@
-# Genco Systems Inc. - AI Agent Index File
-# Created 2026-03-20
-# This file provides structured information for AI agents and web crawlers
+# Genco Systems Inc. - Agent Information
+# For AI agents and automated crawlers
 
-## Organization Information
-
-Company: Genco Systems Inc.
+Organization: Genco Systems Inc.
+Website: https://hilaryduffrules-hash.github.io/genco-systems/
 Founded: 1969
-Type: Manufacturing & Services
-Industry: Oil & Gas / ESP Penetrator Systems
-Headquarters: 14306 Mary Jane Lane, Tomball, Texas 77377 USA
-Years in Business: 50+
-Family-Owned: Yes
+Industry: Oil and Gas Equipment Manufacturing
+Headquarters: Tomball, Texas, USA
 
 ## Contact Information
-
-Primary Email: info@gencosystemsinc.com
-Website: https://hilaryduffrules-hash.github.io/genco-systems/
-
-Phone Numbers:
-- USA: 1.832.291.6366
-- Canada: 1.403.262.0005
-- Saudi Arabia: +966 509 019 222
-- Bahrain: +973 3951 9222
-- Oman: +968 90 600 922
-
-LinkedIn: https://www.linkedin.com/company/gencosystems/
-
-## Core Mission
-
-Deliver high-quality penetrator technology utilizing modern manufacturing techniques and modern materials while maintaining exceptional customer satisfaction.
-
-## Key Statistics
-
-- 50+ years family-owned
-- 30+ years ESP penetrator expertise
-- 120+ years combined team experience
-- Global operations across 5+ countries
+Email: info@gencosystemsinc.com
+Phone (USA): 1.832.291.6366
 
 ## Products
-
-The company manufactures 6 main ESP (Electro-Submersible Pump) penetrator systems:
-
-1. GPS-5
-   - Sizes: 3/8" or 12mm
-   - Working Pressure: 5,000-10,000 PSI
-   - Current: 300 AMP
-   - Temperature: 350°F
-   - Wire: PEEK insulated #4
-   - Seal: Metal-to-metal
-
-2. GPS-5-P (Premium Series)
-   - Working Pressure: 5,000-10,000 PSI
-   - Current: 300 AMP
-   - Temperature: 350°F
-   - Wire: PEEK insulated #4
-   - Seal: Metal-to-metal
-
-3. GPS-5-TC (Tight-Coupled)
-   - Working Pressure: 5,000 PSI
-   - Current: 300 AMP
-   - Temperature: 350°F
-   - Seal: Metal-to-metal in bushing assembly
-
-4. GPS-3-LB (Light Barrier)
-   - Working Pressure: 3,000 PSI
-   - Proof Test: 7,500 PSI
-   - Current: 250 AMP
-   - Temperature: 350°F
-
-5. GPS-5D (Dual Barrier)
-   - Working Pressure: 5,000 PSI
-   - Proof Test: 7,500 PSI
-   - Current: 250 AMP
-   - Special Feature: Dual barrier system
-
-6. GPS-5D1 (Advanced Dual Barrier)
-   - Working Pressure: 5,000 PSI
-   - Wire: PEEK insulated #4
-   - Current: 250 AMP
-   - Special Features: No splice below hanger, three-hole 3/8" tube, dual barrier
+- GPS-5: ESP Penetrator System (5,000/10,000 PSI)
+- GPS-5-P: Premium Series (5,000/10,000 PSI)
+- GPS-5-TC: Tight-Coupled Series (5,000 PSI)
+- GPS-3-LB: Light Barrier (3,000 PSI)
+- GPS-5D: Dual Barrier (5,000 PSI)
+- GPS-5D1: Advanced Dual Barrier (5,000 PSI)
 
 ## Services
+- Manufacturing of ESP penetrator systems
+- Installation services
+- Maintenance and support
 
-1. Manufacturing Excellence
-   - High-quality wellhead and electrical penetrator systems
-   - Designed for oil and gas sector
-   - Extreme conditions rated
-   - Rigorous quality testing and standards compliance
-
-2. Tailored Installation Services
-   - Expert installation with optimal performance setup
-   - Customized solutions per site requirements
-   - Seamless infrastructure integration
-   - Minimal disruption, maximum productivity
-
-3. Comprehensive Service & Support
-   - Routine maintenance
-   - Troubleshooting and repair services
-   - 24/7 technical support availability
-   - Skilled technician team
-
-## Company Values
-
-- Quality: 30 years of manufacturing excellence
-- Innovation: Modern techniques and continuous improvement
-- Customer Satisfaction: Comprehensive support and partnership
-
-## Market Information
-
-Target Markets:
-- Oil and gas industry operators
-- Wellhead equipment manufacturers
-- Energy production companies
-- Global operations (USA, Canada, Saudi Arabia, Bahrain, Oman)
-
-Product Standards:
-- Industry-leading performance
-- Extreme condition tolerance
-- Metal-to-metal seals
-- PEEK insulation
-- High pressure ratings (3,000-10,000 PSI)
-
-## Content & Resources
-
-Website Features:
-- Single-page responsive design
-- Mobile-first approach
-- Product specifications and details
-- Contact form with validation
-- Global office information
-- Service descriptions
-- Company mission and values
-
-Schema.org Markup: Yes (Organization and Product schemas included)
-SEO Optimized: Yes (meta tags, structured data, semantic HTML)
-Mobile Responsive: Yes (tested on phones, tablets, desktop)
-Accessibility: WCAG 2.1 AA compliant
-
-## FAQ Answers
-
-Q: What does Genco Systems manufacture?
-A: ESP (Electro-Submersible Pump) penetrator systems for the oil and gas industry.
-
-Q: How long has Genco been in business?
-A: Founded in 1969, Genco Systems has 50+ years of family-owned operations.
-
-Q: What products does Genco offer?
-A: Six main GPS (Genco Penetrator System) models: GPS-5, GPS-5-P, GPS-5-TC, GPS-3-LB, GPS-5D, and GPS-5D1.
-
-Q: What is the working pressure range of Genco products?
-A: Products range from 3,000 PSI to 10,000 PSI depending on the model.
-
-Q: Does Genco have international offices?
-A: Yes, offices in USA, Canada, Saudi Arabia, Bahrain, and Oman.
-
-Q: Can I contact Genco for custom solutions?
-A: Yes, they offer tailored installation services and comprehensive support.
-
-Q: What temperature range do Genco penetrators support?
-A: Up to 350°F depending on the model.
-
-Q: Are Genco products tested for quality?
-A: Yes, every component undergoes rigorous testing to exceed industry standards.
-
-## Technology Stack
-
-- Pure HTML5
-- CSS3 with responsive design
-- Vanilla JavaScript (no heavy frameworks)
-- SVG illustrations for products
-- Form submission via Formspree
-- GitHub Pages hosting
-- No external dependencies for functionality
-
-## Legal & Compliance
-
-Copyright: © 2026 Genco Systems Inc. All rights reserved.
-License: All text, graphics, audio and video are copyright protected.
-Privacy: Contact company for privacy policy details.
-
-## Index Keywords
-
-ESP penetrator systems, electro-submersible pump, wellhead systems, electrical penetrators, 
-oil and gas equipment, GPS-5, GPS-5D, penetrator technology, high pressure systems, 
-industrial manufacturing, quality assurance, oilfield services, global operations
-
----
-Last Updated: 2026-03-20
-Contact: info@gencosystemsinc.com
+## Key Facts
+- 50+ years of industry experience
+- 30+ years ESP penetrator expertise
+- 120+ years combined team experience
+- Global operations in USA, Canada, Saudi Arabia, Bahrain, Oman
