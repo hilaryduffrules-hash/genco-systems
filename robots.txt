@@ -1,0 +1,53 @@
+# Genco Systems Inc. - robots.txt
+# Created 2026-03-20
+
+# Allow all crawlers
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /private
+Disallow: /*.pdf$
+
+# Specific crawler directives
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+User-agent: bingbot
+Allow: /
+Crawl-delay: 1
+
+# Image and media crawlers
+User-agent: Googlebot-Image
+Allow: /images/
+
+User-agent: Bingbot-Image
+Allow: /images/
+
+# AI Training - Allow or Disallow based on preference
+User-agent: GPTBot
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+# Slow crawlers
+User-agent: AhrefsBot
+Crawl-delay: 10
+Disallow: /admin
+
+User-agent: SemrushBot
+Crawl-delay: 10
+
+# Disallow bad bots
+User-agent: MJ12bot
+Disallow: /
+
+# Sitemaps (if created)
+# Sitemap: https://hilaryduffrules-hash.github.io/genco-systems/sitemap.xml
+
+# Cache settings
+Cache-Control: public, max-age=3600
